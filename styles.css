@@ -1,5 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comic Sans MS:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comic Sans MS=swap');
 
 :root {
     --verde-claro: #90EE90;
@@ -96,7 +96,7 @@ section {
 
 
 h2 {
-    font-family: 'Lemon', serif;
+    font-family: 'Comic Sans MS', serif;
     font-size: 2.5em;
     font-style: normal;
     color: var(--verde-claro);
